@@ -1,0 +1,9 @@
+# Deteccao de maos e rosto (instala o opencv-contrib-python junto)
+mediapipe==1.1.0
+
+# OpenCV: camera, janelas e desenho. Usar so a versao "contrib",
+# que e a exigida pelo mediapipe (nao instalar opencv-python junto)
+opencv-contrib-python==5.0.0.93
+
+# Manipulacao das imagens (fundo da janela de exibicao)
+numpy==2.5.3
