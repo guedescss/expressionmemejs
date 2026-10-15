@@ -1,11 +1,4 @@
 
-# Ambiente virtual Python
-.venv/
-
-# Arquivos temporários do Python
-__pycache__/
-*.py[cod]
-
 # Arquivos com configurações e segredos locais
 .env
 
