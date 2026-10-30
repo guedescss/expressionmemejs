@@ -1,4 +1,4 @@
-# Expression Lab
+# Expression Scanner Meme
 
 Aplicação web para reconhecer gestos com as mãos e expressões faciais em tempo real pela webcam e mostrar a imagem correspondente. Feita com JavaScript, Vite e MediaPipe Tasks Vision; o processamento acontece no navegador, sem backend.
 

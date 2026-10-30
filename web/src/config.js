@@ -15,7 +15,7 @@ export const limiteNojo = 0.5;
 export const limiteOlhosArregalados = 0.35;
 export const limiteOlharDeLado = 0.6;
 
-export const janelaPrincipal = "Expression Lab - Deteccao Facial";
+export const janelaPrincipal = "Expression Scanner Meme - Deteccao Facial";
 export const janelaImagem = "Imagem do gesto";
 export const tamanhoJanelaImagem = [480, 480];
 export const posicaoJanelaImagem = [680, 50];
