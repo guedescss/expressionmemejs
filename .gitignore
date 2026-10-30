@@ -4,3 +4,7 @@
 
 # Configurações locais do VS Code
 .vscode/
+
+# Dependências e artefatos de build do projeto web
+web/node_modules/
+web/dist/
